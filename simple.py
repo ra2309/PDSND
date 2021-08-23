@@ -1,2 +1,2 @@
-i = input("your age is what?")
-print(i)
+j = input("your city is what?")
+print(j)
